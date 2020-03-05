@@ -117,3 +117,5 @@ Blockstream衛星網路24小時不間斷地免費將比特幣區塊鏈廣播到�
 * [Blockstream Launches 5th Satellite Streaming Bitcoin Blockchain From Space](https://cointelegraph.com/news/blockstream-launches-5th-satellite-streaming-bitcoin-blockchain-from-space)
 * [How Satellites in Space Are Bringing Bitcoin to People Without Internet](https://blockexplorer.com/news/satellites-bring-bitcoin-to-people-without-internet/)
 * [Blockstream Boosts Bitcoin Satellite Service With Lightning Payments](https://www.coindesk.com/blockstream-boosts-bitcoin-satellite-service-with-lightning-payments)
+
+# https://raw.githubusercontent.com/wissanu1987/satellite-api/master/FF4DFD75-31B7-42D7-AC6A-3E0C96E49AF9-383-000000281DBD7A3E.GIF
